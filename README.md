@@ -1,8 +1,7 @@
 # PortfolioWebpage_Erin
-[My Portfolio](https://vigorous-kirch-6d872b.netlify.com/#projects)
 
-This is my portfolio and collection of projects from DGM 1600. 
-I used HTML, CSS, and Javascript. It features a [Star Wars character page](https://vigorous-kirch-6d872b.netlify.com/starwars.html), and a [Rick and Morty card flipping page](https://vigorous-kirch-6d872b.netlify.com/rick_morty.html).
+This is my final project from DGM 1600. 
+I used HTML, CSS, and Javascript. It features a [Rick and Morty card flipping page](https://pensive-austin-6f482f.netlify.app/rick_morty.html).
 
 ---
 ## Requirements
@@ -132,4 +131,3 @@ class Card{
 }
 ```
 
-# cards
